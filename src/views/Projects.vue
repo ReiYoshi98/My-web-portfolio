@@ -82,7 +82,7 @@ export default {
                     title: 'Project Hub', 
                     image: require('../assets/react-redux.jpg'), 
                     description: 'A project dashboard React app with Redux & Firebase', 
-                    links: [{media: "Github", mdi: "mdi-github-face"}, {mdi: "mdi-eye", url: "https://drive.google.com/file/d/1Rvna_HrmE9XUPJk0Ux1wwf_4ho0mq3xv/view?usp=sharing"}], 
+                    links: [{media: "Github", mdi: "mdi-github-face", url: "https://github.com/ReiYoshi98/react-redux-app"}, {mdi: "mdi-eye", url: "https://drive.google.com/file/d/1Rvna_HrmE9XUPJk0Ux1wwf_4ho0mq3xv/view?usp=sharing"}], 
                     tools: [{toolName: "React", icon: "mdi-react", color: "light-blue darken-1"}, {toolName: "Redux", icon: "mdi-electron-framework", color: "purple darken-1"}, {toolName: "Firebase", icon: "mdi-firebase", color: "amber darken-1"}]
                 },
                 {
